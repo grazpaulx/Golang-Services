@@ -8,6 +8,7 @@ This repository contains simple web service programs developed using Go (Golang)
 - Square Number as a Service
 - Temperature Converter as a Service
 - Calculator as a Service
+- weather prediction as a service
 
 ## How to Run
 
