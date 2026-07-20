@@ -1,4 +1,4 @@
-# Golang Services
+# Golang Services [CLOUD]
 
 A collection of simple RESTful web services developed using **Go (Golang)** and the built-in **net/http** package. Each service demonstrates the fundamentals of building HTTP servers, handling requests, processing query parameters, and returning responses through a web browser.
 
